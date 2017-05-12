@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+<!--    <item
+        android:id="@+id/profil_dashboard"
+        android:icon="@drawable/ic_action_profil"
+        android:title="@string/title_profil" />-->
+
+    <item
+        android:id="@+id/competences_dashboard"
+        android:icon="@drawable/ic_action_star"
+        android:title="@string/title_competences" />
+
+    <item
+        android:id="@+id/experiences_dashboard"
+        android:icon="@drawable/ic_action_experiences"
+        android:title="@string/title_experiences" />
+
+    <item
+        android:id="@+id/formations_dashboard"
+        android:icon="@drawable/ic_action_formations"
+        android:title="@string/title_formations" />
+
+</menu>

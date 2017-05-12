@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\Projets Android\\MonCv\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_home_black_24dp.png",
+        "source": "E:\\Projets Android\\MonCv\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "E:\\Projets Android\\MonCv\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_dashboard_black_24dp.png",
+        "source": "E:\\Projets Android\\MonCv\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "E:\\Projets Android\\MonCv\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_notifications_black_24dp.png",
+        "source": "E:\\Projets Android\\MonCv\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_notifications_black_24dp.png"
+    }
+]

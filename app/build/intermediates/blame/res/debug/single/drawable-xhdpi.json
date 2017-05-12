@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "E:\\Projets Android\\MonCv\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_formations.png",
+        "source": "E:\\Projets Android\\MonCv\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_formations.png"
+    },
+    {
+        "merged": "E:\\Projets Android\\MonCv\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_notifications_black_24dp.png",
+        "source": "E:\\Projets Android\\MonCv\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "E:\\Projets Android\\MonCv\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_dashboard_black_24dp.png",
+        "source": "E:\\Projets Android\\MonCv\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "E:\\Projets Android\\MonCv\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_star.png",
+        "source": "E:\\Projets Android\\MonCv\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_star.png"
+    },
+    {
+        "merged": "E:\\Projets Android\\MonCv\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_profil.png",
+        "source": "E:\\Projets Android\\MonCv\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_profil.png"
+    },
+    {
+        "merged": "E:\\Projets Android\\MonCv\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_home_black_24dp.png",
+        "source": "E:\\Projets Android\\MonCv\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "E:\\Projets Android\\MonCv\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_experiences.png",
+        "source": "E:\\Projets Android\\MonCv\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_experiences.png"
+    }
+]

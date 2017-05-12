@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\Projets Android\MonCv\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bc85db164c270a81275db9cb129d4d7df51e3e7a">
+        <dex dex="E:\Projets Android\MonCv\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_eafbf274d127c7a290ee2359d6ad04040c5040ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Projets Android\MonCv\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="E:\Projets Android\MonCv\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_b6a4a89c373aa16c83dd286b4a562773ea55bffa\classes.dex" />
+    </item>
+
+</items>

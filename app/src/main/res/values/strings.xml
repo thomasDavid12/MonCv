@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Mon CV</string>
+    <string name="title_profil">Profil</string>
+    <string name="title_competences">Compétences</string>
+    <string name="title_experiences">Expériences</string>
+    <string name="title_formations">Formations</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+</resources>

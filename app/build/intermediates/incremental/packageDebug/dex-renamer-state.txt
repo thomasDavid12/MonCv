@@ -1,0 +1,7 @@
+#Fri May 12 19:38:45 CEST 2017
+base.0=E\:\\Projets Android\\MonCv\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_eafbf274d127c7a290ee2359d6ad04040c5040ca
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\Projets Android\\MonCv\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_b6a4a89c373aa16c83dd286b4a562773ea55bffa\\classes.dex
+base.1=E\:\\Projets Android\\MonCv\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_b6a4a89c373aa16c83dd286b4a562773ea55bffa
+file.0=E\:\\Projets Android\\MonCv\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_eafbf274d127c7a290ee2359d6ad04040c5040ca\\classes.dex

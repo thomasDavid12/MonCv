@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="custom_theme_color_lighting">#ffffff</color>
+    <color name="custom_theme_color_dark">#28292e</color>
+    <color name="custopn_action_background_action_bar_color_white">#ffffff</color>
+    <color name="custopn_action_background_action_bar_color_dark">#28292e</color>
+    <color name="accent_material_light_1">#000000</color>
+    <color name="iconColor">#000000</color>
+    <color name="textIconColor">#000000</color>
+</resources>

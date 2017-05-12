@@ -1,0 +1,62 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Light base activity theme -->
+    <style name="ActivityTheme.Primary.Base.Light" parent="Theme.AppCompat.Light">
+        <item name="primaryTextColor">#28292e</item>
+        <item name="secondaryTextColor">#28292e</item>
+        <item name="backgroundCardColor">#FFFFFF</item>
+        <item name="dividerColor">#28292e</item>
+        <item name="iconColor">#000000</item>
+        <item name="textIconColor">#000000</item>
+        <item name="backgroundCardColorCompetences">#f1f1f1</item>
+
+        <!-- ActionBar color -->
+        <item name="android:actionBarStyle">@style/MyActionBarWhite</item>
+        <!-- Support library compatibility -->
+        <item name="actionBarStyle">@style/MyActionBarWhite</item>
+    </style>
+
+    <!-- ActionBar Style DARK-->
+    <style name="MyActionBarDark"
+        parent="@style/Widget.AppCompat.Light.ActionBar.Solid.Inverse">
+        <item name="android:background">@color/custopn_action_background_action_bar_color_dark</item>
+
+        <!-- Support library compatibility -->
+        <item name="background">@color/custopn_action_background_action_bar_color_dark</item>
+    </style>
+
+    <!-- ActionBar Style WHITE -->
+    <style name="MyActionBarWhite"
+        parent="@style/Widget.AppCompat.Light.ActionBar.Solid.Inverse">
+        <item name="android:background">@color/custopn_action_background_action_bar_color_white</item>
+
+        <!-- Support library compatibility -->
+        <item name="background">@color/custopn_action_background_action_bar_color_white</item>
+    </style>
+
+    <!-- Dark base activity theme -->
+    <style name="ActivityTheme.Primary.Base.Dark" parent="Theme.AppCompat">
+        <item name="primaryTextColor">#F2F2F3</item>
+        <item name="secondaryTextColor">#F2F2F3</item>
+        <item name="backgroundCardColor">#28292e</item>
+        <item name="dividerColor">#F2F2F3</item>
+        <item name="iconColor">#ffffff</item>
+        <item name="textIconColor">#ffffff</item>
+        <item name="backgroundCardColorCompetences">#28292e</item>
+
+        <!-- ActionBar color -->
+        <item name="android:actionBarStyle">@style/MyActionBarDark</item>
+        <!-- Support library compatibility -->
+        <item name="actionBarStyle">@style/MyActionBarDark</item>
+    </style>
+
+    <!-- Specific Feed activity theme -->
+    <style name="FeedActivityThemeLight" parent="ActivityTheme.Primary.Base.Light">
+        <item name="android:windowBackground">@color/custom_theme_color_lighting</item>
+    </style>
+
+    <style name="FeedActivityThemeDark" parent="ActivityTheme.Primary.Base.Dark">
+        <item name="android:windowBackground">@color/custom_theme_color_dark</item>
+    </style>
+
+</resources>

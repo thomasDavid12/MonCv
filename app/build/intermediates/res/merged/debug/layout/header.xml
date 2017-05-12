@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:columnCount="4"
+    android:orientation="vertical"
+    android:rowCount="10"
+    android:rowOrderPreserved="true"
+    tools:context="com.humanbooster.moncv.Activity.MainActivity"
+    android:background="?attr/backgroundCardColor">
+
+
+    <LinearLayout
+        android:id="@+id/LinearLayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_column="0"
+        android:layout_columnSpan="4"
+        android:layout_row="9"
+        android:orientation="vertical"
+        android:background="?attr/backgroundCardColor">
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_rowSpan="1"
+        android:paddingLeft="5dp"
+        android:paddingTop="5dp"
+        android:text="DAVID Thomas"
+        android:textAlignment="viewStart"
+        android:textColor="?attr/primaryTextColor"
+        android:background="?attr/backgroundCardColor"/>
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_rowSpan="1"
+        android:paddingLeft="5dp"
+        android:text="2 imp. Bel Air "
+        android:textAlignment="viewStart"
+        android:textColor="?attr/primaryTextColor"
+        android:background="?attr/backgroundCardColor"/>
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_rowSpan="1"
+        android:paddingLeft="5dp"
+        android:text="34230 Tressan "
+        android:textAlignment="viewStart"
+        android:textColor="?attr/primaryTextColor"
+        android:background="?attr/backgroundCardColor"/>
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_rowSpan="1"
+        android:paddingLeft="5dp"
+        android:text="06.48.71.13.17 "
+        android:textColor="?attr/primaryTextColor"
+        android:background="?attr/backgroundCardColor"/>
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_rowSpan="1"
+        android:paddingLeft="5dp"
+        android:text="th.david12@gmail.com "
+        android:textColor="?attr/primaryTextColor"
+        android:background="?attr/backgroundCardColor"/>
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="match_parent"
+        android:layout_column="0"
+        android:layout_columnSpan="4"
+        android:layout_row="5"
+        android:text="Développeur Mobile"
+        android:textAlignment="center"
+        android:textColor="?attr/primaryTextColor"
+        android:background="?attr/backgroundCardColor"/>
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:layout_column="0"
+        android:layout_columnSpan="4"
+        android:layout_row="6"
+        android:background="#000000"
+        android:text=""/>
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="94dp"
+        android:layout_height="87dp"
+        android:layout_column="3"
+        android:layout_row="0"
+        android:layout_rowSpan="5"
+        android:paddingTop="10dp"
+        app:srcCompat="@drawable/photo"
+        android:textColor="?attr/colorPrimary"/>
+
+</GridLayout>
